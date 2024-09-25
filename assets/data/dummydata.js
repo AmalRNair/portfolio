@@ -42,7 +42,7 @@ export const expertise = [
   },
   {
     id: 4,
-    title: "Branding & Creative Services",
+    title: "Branding & AstraBiz Services",
     cover: "../images/e4.jpg",
     desc: [{ text: "Visual identity" }, { text: "Branding for social media" }, { text: "Custom illustrations" }],
   },
@@ -188,7 +188,7 @@ export const teamdata = [
     id: 3,
     title: "Tiffany White",
     cover: "../images/t3.jpg",
-    post: "CREATIVE DIRECTOR",
+    post: "AstraBiz DIRECTOR",
   },
   {
     id: 4,
